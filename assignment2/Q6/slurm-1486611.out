@@ -1,0 +1,47 @@
+Running on host node-sw-155
+Will run command: mpirun -np 1 ./neutron
+Starting job...
+ The input parameters are:
+Value of m =  512
+Value of eps = 1.000E-08
+Value of maxit  =  100
+Value of sigma = 9.000E-01
+Value of maxit_inner = 1000
+Value of tau = 1.000E-01
+    bicgstab conducted   151 iterations up to residual =  9.931E-02
+    bicgstab conducted   237 iterations up to residual =  9.952E-02
+    bicgstab conducted   183 iterations up to residual =  9.945E-02
+    bicgstab conducted   140 iterations up to residual =  8.613E-02
+    bicgstab conducted   129 iterations up to residual =  9.953E-02
+    bicgstab conducted   154 iterations up to residual =  9.632E-02
+    bicgstab conducted   144 iterations up to residual =  9.879E-02
+    bicgstab conducted   143 iterations up to residual =  9.223E-02
+    bicgstab conducted   157 iterations up to residual =  9.901E-02
+    bicgstab conducted   137 iterations up to residual =  9.878E-02
+    bicgstab conducted   156 iterations up to residual =  9.479E-02
+    bicgstab conducted   138 iterations up to residual =  9.937E-02
+    bicgstab conducted   159 iterations up to residual =  9.393E-02
+    bicgstab conducted   155 iterations up to residual =  9.862E-02
+ the norm of resicual R:   8.9239331577817086E-009 /
+ The total number of bic iterations:   2183.0000000000000      /
+ The total time spent on bic iterations:   100.87921461299993      /
+ The time for one Bic iteration:   4.6211275590013708E-002
+ cpu time elapsed =    101.30546883796342     
+ multiplication constant lambda_0 =    1.0297340946587727     
+
+real	1m42.525s
+user	1m41.930s
+sys	0m0.202s
+
+########################################################################
+----------------------! Balena Job Details !----------------------------
+
+JobID          : 1486611
+No. of nodes   : 1
+No. of CPUs    : 16
+Timelimit      : 00:05:00
+Elapsed time   : 00:01:44
+Nodelist       : node-sw-155
+
+########################################################################
+

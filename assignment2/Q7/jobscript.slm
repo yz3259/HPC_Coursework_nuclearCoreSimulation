@@ -1,0 +1,28 @@
+#!/bin/bash
+#
+# Specify the queue
+#SBATCH --account=ma40177
+#
+##############################################################
+## IMPORTANT:  You need to change the following options     ##
+############################################################## 
+#
+# Choose name of job (name of executable)
+#SBATCH --job-name=neutron
+#
+# Choose the number of nodes & processors per node:
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#
+# Choose the time your code will need at most:
+#SBATCH --time=00:05:00
+#
+#############################################################
+##     Below this nothing should have to be changed !!!     ##
+##############################################################
+
+echo Running on host `hostname`
+echo "Will run command: mpirun -np $SLURM_NTASKS ./$SLURM_JOB_NAME"
+echo "Starting job..."
+# Run the parallel MPI executable
+time mpirun  -np $SLURM_NTASKS ./$SLURM_JOB_NAME

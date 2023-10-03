@@ -1,0 +1,347 @@
+Running on host node-sw-155
+Will run command: mpirun -np 16 ./neutron
+Starting job...
+ The input parameters are:
+Value of m =  128
+Value of eps = 1.000E-08
+Value of maxit  =  100
+Value of sigma = 9.000E-01
+Value of maxit_inner = 2000
+Value of tau = 1.000E-01
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    63 iterations up to residual =  8.998E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    53 iterations up to residual =  9.847E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    32 iterations up to residual =  9.750E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    33 iterations up to residual =  9.069E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    32 iterations up to residual =  9.415E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    30 iterations up to residual =  9.394E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    35 iterations up to residual =  8.460E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    33 iterations up to residual =  9.342E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.998E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    36 iterations up to residual =  9.877E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    37 iterations up to residual =  9.494E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.906E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.402E-02
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18290897202678025      /
+ The time for one Bic iteration:   3.5242576498416235E-004
+ cpu time elapsed =   0.19448443106375635     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18305231141857803      /
+ The time for one Bic iteration:   3.5270194878338733E-004
+ cpu time elapsed =   0.19440398016013205     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18290094565600157      /
+ The time for one Bic iteration:   3.5241029991522460E-004
+ cpu time elapsed =   0.19442803505808115     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18311009765602648      /
+ The time for one Bic iteration:   3.5281329028136123E-004
+ cpu time elapsed =   0.19439778383821249     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18310822476632893      /
+ The time for one Bic iteration:   3.5280968163069160E-004
+ cpu time elapsed =   0.19440691685304046     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18298154580406845      /
+ The time for one Bic iteration:   3.5256559885176966E-004
+ cpu time elapsed =   0.19441763195209205     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18298988998867571      /
+ The time for one Bic iteration:   3.5258167627875861E-004
+ cpu time elapsed =   0.19438446592539549     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18293376942165196      /
+ The time for one Bic iteration:   3.5247354416503265E-004
+ cpu time elapsed =   0.19442143081687391     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18302212911657989      /
+ The time for one Bic iteration:   3.5264379405892081E-004
+ cpu time elapsed =   0.19446019199676812     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18303763144649565      /
+ The time for one Bic iteration:   3.5267366367340200E-004
+ cpu time elapsed =   0.19441032083705068     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18306137924082577      /
+ The time for one Bic iteration:   3.5271942050255447E-004
+ cpu time elapsed =   0.19441477302461863     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18307515257038176      /
+ The time for one Bic iteration:   3.5274595870979147E-004
+ cpu time elapsed =   0.19441486406140029     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18302611098624766      /
+ The time for one Bic iteration:   3.5265146625481242E-004
+ cpu time elapsed =   0.19439222593791783     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18324810871854424      /
+ The time for one Bic iteration:   3.5307920755018159E-004
+ cpu time elapsed =   0.19435449386946857     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18302380410023034      /
+ The time for one Bic iteration:   3.5264702138772703E-004
+ cpu time elapsed =   0.19434312195517123     
+ multiplication constant lambda_0 =    1.0296287557000863     
+    bicgstab conducted    33 iterations up to residual =  9.733E-02
+ the norm of resicual R:   6.4665385229013574E-009 /
+ The total number of bic iterations:   519.00000000000000      /
+ The total time spent on bic iterations:  0.18314963113516569      /
+ The time for one Bic iteration:   3.5288946268818052E-004
+ cpu time elapsed =   0.19439859106205404     
+ multiplication constant lambda_0 =    1.0296287557000863     
+
+real	0m0.740s
+user	0m3.641s
+sys	0m1.684s
+
+########################################################################
+----------------------! Balena Job Details !----------------------------
+
+JobID          : 1486858
+No. of nodes   : 1
+No. of CPUs    : 16
+Timelimit      : 00:05:00
+Elapsed time   : 00:00:01
+Nodelist       : node-sw-155
+
+########################################################################
+
